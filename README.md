@@ -20,17 +20,17 @@ Uygulamayı çalıştırmadan önce aşağıdaki yazılımların kurulu olduğun
 
 Bu uygulamada kullanılan kütüphaneler:
 
-```json
-{
-  "@react-navigation/native": "^6.1.18",
-  "@react-navigation/native-stack": "^6.11.0",
-  "nativewind": "^2.0.11",
-  "react": "18.3.1",
-  "react-native": "0.75.4",
-  "react-native-reanimated": "^3.15.4",
-  "react-native-safe-area-context": "^4.11.0",
-  "react-native-screens": "^3.34.0"
-}
+- @react-navigation/native": "^6.1.18",
+- @react-navigation/native-stack": "^6.11.0",
+- nativewind": "^2.0.11",
+- react": "18.3.1",
+- react-native": "0.75.4",
+- react-native-reanimated": "^3.15.4",
+- react-native-safe-area-context": "^4.11.0",
+- react-native-screens": "^3.34.0"
 
 ![](./ekrankaydı.gif)
+
+```
+
 ```
