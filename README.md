@@ -32,5 +32,5 @@ Bu uygulamada kullanılan kütüphaneler:
   "react-native-screens": "^3.34.0"
 }
 
-![](ekrankaydı.gif)
+![](./ekrankaydı.gif)
 ```
